@@ -1,0 +1,14 @@
+ale-py==0.10.1
+gymnasium==1.0.0
+numpy==1.26.4
+stable_baselines3==2.4.0
+tensorflow==2.16.2
+torch==2.2.2
+h5py==3.12.1
+opencv-python==4.10.0.84
+pygame==2.6.1
+tqdm==4.67.0
+matplotlib==3.9.2
+pandas==2.2.3
+tensorboard==2.16.2
+protobuf==4.25.5
